@@ -1,0 +1,9 @@
+{
+  "templatesFolder": "Templates",
+  "assetsFolder": "Assets",
+  "automaticMove": true,
+  "useSceneAnalyser": true,
+  "version": "4.1.14",
+  "customAttributes": [],
+  "forceFullWidth": true
+}
