@@ -2,7 +2,7 @@
 ```RpgManager4
 id: 
   type: "nonplayercharacter"
-  campaign: "obsidian_personal/D&D/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
+  campaign: "Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
 tasks: 
   - id: "287ae1ff-943a-4d60-8c66-7797120b8617"
     priority: 1
@@ -15,7 +15,9 @@ data:
   nonplayercharactertype: "supporting"
   occupation: "Student, Budding Illusionist and Mischief-Maker"
 images: 
-  - path: "obsidian_personal/D&D/The Mystery of the Midnight Menace/Assets/Cassian \"Cass\" Willowby 1.png"
+  - path: "Cassian \"Cass\" Willowby 1.png"
     caption: ""
 ```
 
+
+[[Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md|]]

@@ -2,7 +2,7 @@
 ```RpgManager4
 id: 
   type: "clue"
-  campaign: "obsidian_personal/D&D/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
+  campaign: "Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
 tasks: 
   - id: "43a25a8b-cd22-4f75-bc14-7e763a3cc3e4"
     priority: 1
@@ -15,4 +15,6 @@ data:
 ```
 
 
+
+[[Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md|]]
 [[Campaigns/The Mystery of the Midnight Menace/02. Sessions/Session One/Scenes/Investigating the Janitor's Closet.md|]]

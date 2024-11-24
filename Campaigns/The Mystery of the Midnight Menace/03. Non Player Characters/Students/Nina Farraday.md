@@ -2,7 +2,7 @@
 ```RpgManager4
 id: 
   type: "nonplayercharacter"
-  campaign: "obsidian_personal/D&D/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
+  campaign: "Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
 tasks: 
   - id: "9ab54366-68b6-4b83-9be0-c5e72938b753"
     priority: 1
@@ -15,7 +15,9 @@ data:
   nonplayercharactertype: "supporting"
   occupation: "Student Archivist"
 images: 
-  - path: "obsidian_personal/D&D/The Mystery of the Midnight Menace/Assets/Nina Farraday 1.png"
+  - path: "Nina Farraday 1.png"
     caption: ""
 ```
 
+
+[[Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md|]]

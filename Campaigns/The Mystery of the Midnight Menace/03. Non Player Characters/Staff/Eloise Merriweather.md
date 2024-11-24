@@ -2,7 +2,7 @@
 ```RpgManager4
 id: 
   type: "nonplayercharacter"
-  campaign: "campaigns/Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
+  campaign: "Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
 tasks: 
   - id: "18831355-e540-45c9-93c8-c5f4f972c03b"
     priority: 1
@@ -16,11 +16,17 @@ data:
   occupation: "Headmaster"
 relationships: 
   - type: "bidirectional"
-    path: "campaigns/Campaigns/The Mystery of the Midnight Menace/05. Locations/Dining Hall.md"
+    path: "Campaigns/The Mystery of the Midnight Menace/05. Locations/Dining Hall.md"
   - type: "bidirectional"
-    path: "campaigns/Campaigns/The Mystery of the Midnight Menace/02. Sessions/Session One/Scenes/First Day's Dinner.md"
-images: 
-  - path: "campaigns/Campaigns/The Mystery of the Midnight Menace/Assets/Eloise Merriweather 1.png"
+    path: "Campaigns/The Mystery of the Midnight Menace/02. Sessions/Session One/Scenes/First Day's Dinner.md"
+images:
+  - path: "Eloise Merriweather 1.png"
     caption: ""
 ```
 
+
+[[Campaigns/The Mystery of the Midnight Menace/05. Locations/Dining Hall.md|]]
+[[Campaigns/The Mystery of the Midnight Menace/02. Sessions/Session One/Scenes/First Day's Dinner.md|]]
+[[Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md|]]
+[[Campaigns/The Mystery of the Midnight Menace/02. Sessions/Session One/Scenes/Congratulations.md|]]
+[[Campaigns/The Mystery of the Midnight Menace/02. Sessions/Session One/Scenes/Caution.md|]]

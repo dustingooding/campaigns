@@ -2,7 +2,7 @@
 ```RpgManager4
 id: 
   type: "nonplayercharacter"
-  campaign: "obsidian_personal/D&D/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
+  campaign: "Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
 tasks: 
   - id: "bf2cfe1d-2bcf-4573-812a-a84b491c77fd"
     priority: 1
@@ -16,12 +16,12 @@ data:
   nonplayercharactertype: "supporting"
 relationships: 
   - type: "bidirectional"
-    path: "obsidian_personal/D&D/The Mystery of the Midnight Menace/05. Locations/Library.md"
+    path: "Campaigns/The Mystery of the Midnight Menace/05. Locations/Library.md"
 images: 
-  - path: "obsidian_personal/D&D/The Mystery of the Midnight Menace/Assets/Rory Fenwick 1.png"
+  - path: "Rory Fenwick 1.png"
     caption: ""
 ```
 
-[[obsidian_personal/D&D/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md|]]
+[[Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md|]]
 
-[[obsidian_personal/D&D/The Mystery of the Midnight Menace/05. Locations/Library.md|]]
+[[Campaigns/The Mystery of the Midnight Menace/05. Locations/Library.md|]]

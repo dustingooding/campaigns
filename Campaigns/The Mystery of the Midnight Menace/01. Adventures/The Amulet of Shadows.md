@@ -2,8 +2,8 @@
 ```RpgManager4
 id: 
   type: "adventure"
-  campaign: "obsidian_personal/D&D/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
-  parent: "obsidian_personal/D&D/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
+  campaign: "Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
+  parent: "Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
   positionInParent: 1
 tasks: 
   - id: "42f6fb16-e3b8-47fb-bb96-0f2f76bdc638"
@@ -21,4 +21,4 @@ data:
     ketsu: "Mr. Moss, after some thought, reluctantly offers to let the players decide the amulet’s fate. They can choose to leave it in his care, knowing his benign intentions, or bring it back to the headmaster as a final act of closure to the mystery. Whatever they decide, Mr. Moss smiles knowingly, respecting their decision as they’ve passed his test and shown courage in unraveling the mystery of the Midnight Menace.\n\nWhen the players return to their familiar routines, they find that word of their investigation has spread. The headmaster and faculty subtly acknowledge their bravery, granting them small privileges like special tokens or invitations to advanced courses.\n\nThrough this experience, the players leave the adventure with a heightened sense of curiosity, knowledge, and camaraderie. Their time unraveling the Midnight Menace has prepared them, in ways they couldn’t yet know, for greater mysteries that await them at Evercreek Academy."
 ```
 
-[[obsidian_personal/D&D/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md|]]
+[[Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md|]]

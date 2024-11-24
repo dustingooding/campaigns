@@ -2,7 +2,7 @@
 ```RpgManager4
 id: 
   type: "nonplayercharacter"
-  campaign: "obsidian_personal/D&D/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
+  campaign: "Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
 tasks: 
   - id: "b9c52990-6c3d-4338-9cf2-6cc6bb9d4022"
     priority: 1
@@ -15,7 +15,9 @@ data:
   nonplayercharactertype: "supporting"
   occupation: "Student, Overenthusiastic Conspiracy Theorist"
 images: 
-  - path: "obsidian_personal/D&D/The Mystery of the Midnight Menace/Assets/Milo Greenleaf 1.png"
+  - path: "Milo Greenleaf 1.png"
     caption: ""
 ```
 
+
+[[Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md|]]

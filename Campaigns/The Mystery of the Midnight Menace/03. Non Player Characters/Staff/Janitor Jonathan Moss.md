@@ -2,7 +2,7 @@
 ```RpgManager4
 id: 
   type: "nonplayercharacter"
-  campaign: "obsidian_personal/D&D/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
+  campaign: "Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
 tasks: 
   - id: "4912fca1-a5cb-4060-aedf-7d327f421391"
     priority: 1
@@ -15,11 +15,11 @@ data:
   nonplayercharactertype: "main"
   occupation: "Janitor"
 images: 
-  - path: "obsidian_personal/D&D/The Mystery of the Midnight Menace/Assets/Janitor Jonathan Moss 1.png"
+  - path: "Janitor Jonathan Moss 1.png"
     caption: ""
 ```
 
-[[obsidian_personal/D&D/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md|]]
-[[obsidian_personal/D&D/The Mystery of the Midnight Menace/05. Locations/Janitor's Closet.md|]]
+[[Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md|]]
+[[Campaigns/The Mystery of the Midnight Menace/05. Locations/Janitor's Closet.md|]]
 [[Making a Choice]]
-[[obsidian_personal/D&D/The Mystery of the Midnight Menace/02. Sessions/Session One/Scenes/First Day's Dinner.md|]]
+[[Campaigns/The Mystery of the Midnight Menace/02. Sessions/Session One/Scenes/First Day's Dinner.md|]]

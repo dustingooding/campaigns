@@ -2,7 +2,7 @@
 ```RpgManager4
 id: 
   type: "nonplayercharacter"
-  campaign: "obsidian_personal/D&D/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
+  campaign: "Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
 tasks: 
   - id: "8d3634b5-c86c-4d34-b73a-f81dcf4ed268"
     priority: 1
@@ -15,7 +15,9 @@ data:
   nonplayercharactertype: "supporting"
   occupation: "Student, Quiet, Knowledgeable Healer"
 images: 
-  - path: "obsidian_personal/D&D/The Mystery of the Midnight Menace/Assets/Lyra Stonehaven 1.png"
+  - path: "Lyra Stonehaven 1.png"
     caption: ""
 ```
 
+
+[[Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md|]]

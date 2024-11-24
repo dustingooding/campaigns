@@ -2,7 +2,7 @@
 ```RpgManager4
 id: 
   type: "nonplayercharacter"
-  campaign: "obsidian_personal/D&D/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
+  campaign: "Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md"
 tasks: 
   - id: "58e1b92a-9811-4181-9d19-8ccb5e86dc85"
     priority: 1
@@ -15,7 +15,10 @@ data:
   nonplayercharactertype: "supporting"
   occupation: "Alchemy and Herbology Teacher"
 images: 
-  - path: "obsidian_personal/D&D/The Mystery of the Midnight Menace/Assets/Professor Ivy Thornbloom 1.png"
+  - path: "Professor Ivy Thornbloom 1.png"
     caption: ""
 ```
 
+
+[[Campaigns/The Mystery of the Midnight Menace/The Mystery of the Midnight Menace.md|]]
+[[Campaigns/The Mystery of the Midnight Menace/02. Sessions/Session One/Scenes/Investigating the Library.md|]]
