@@ -4,7 +4,7 @@ id:
   type: "session"
   campaign: "Campaigns/A Flame in Your Heart/A Flame in Your Heart.md"
   parent: "Campaigns/A Flame in Your Heart/A Flame in Your Heart.md"
-  positionInParent: 2
+  positionInParent: 1
 tasks: 
   - id: "91ca48fc-dba3-41ec-bd56-762eb3f107ac"
     priority: 1
