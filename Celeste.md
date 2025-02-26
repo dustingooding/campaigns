@@ -1,4 +1,5 @@
 
+
 ```statblock
 creature: Celeste
 name: Celeste
@@ -51,9 +52,9 @@ traits:
 spells:
   - Cantrips (at will, known): Cackle, Chill Touch, Guidance, Mending
   - Cantrips (at will, coven): Prestidigitation, Spare the Dying
-  - 1st Level (coven): Healing Word, Sanctuary
-  - 2nd Level (coven): Calm Emotions, Warding Bond
-  - 3rd Level (coven): Mass Healing Word, Revivify
+  - 1st Level, 4 (coven): Healing Word, Sanctuary
+  - 2nd Level, 3 (coven): Calm Emotions, Warding Bond
+  - 3rd Level, 2 (coven): Mass Healing Word, Revivify
 
 actions:
   - name: "Dagger Attack"
@@ -76,20 +77,46 @@ reactions:
     desc: "As an action while you can see a talisman, you can recover the sacrificed spell slot. The talisman ceases to be a magic item, and you regain that spell slot the next time you finish a Long Rest. Similarly, if the talisman is destroyed, you regain the spell slow when you finish your next Long Rest."
 ```
 
+
+# HP
+
+- 32 - 29 (grenade)
+- 3 + 4 (mass healing word)
+- 7
 # Prepared Spells
 
-1. 1 - Bane
+1. 1 - Bane - drop of blood
 2. 1 - Command
 3. 1 - Witch's Grasp
-4. 1 - Inflict Wounds
-5. 2 - Detect Thoughts
-6. 2 - Invisibility
+4. 1 - Sleep
+5. 2 - Detect Thoughts - copper piece
+6. 2 - Invisibility - an eyelash in gum arabic
 7. 2 - Lesser Restoration
 8. 2 - Tongue Tie
 9. 3 - Spellwarping Curse
 
+# Spell Slots
+
+| 1st | /   | /   |     |     |
+| --- | --- | --- | --- | --- |
+| 2nd | /   |     |     | X   |
+| 3rd | /   |     | X   | X   |
+
+# Retributive Curses
+
+- Vengeful Gleam - on the salesman
+
 # Tokens
 
-1. Sleep
-2. Disguise Self
-3. Shield
+1. Sleep - a soft, fluffy cotton swatch
+2. Disguise Self - a painted rock
+	1. Given to [[Kaelan Thorne]]
+3. Bless - a copper coin
+
+# Magic Items
+
+- Locket of Whispers
+
+# Inventory
+
+- 1x Greater Healing Potion (4d4+4)
