@@ -80,9 +80,7 @@ reactions:
 
 # HP
 
-- 32 - 29 (grenade)
-- 3 + 4 (mass healing word)
-- 7
+- 32
 # Prepared Spells
 
 1. 1 - Bane - drop of blood
@@ -97,14 +95,14 @@ reactions:
 
 # Spell Slots
 
-| 1st | /   | /   |     |     |
+| 1st |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| 2nd | /   |     |     | X   |
-| 3rd | /   |     | X   | X   |
+| 2nd |     |     |     | X   |
+| 3rd |     |     | X   | X   |
 
 # Retributive Curses
 
-- Vengeful Gleam - on the salesman
+- 
 
 # Tokens
 
@@ -112,11 +110,20 @@ reactions:
 2. Disguise Self - a painted rock
 	1. Given to [[Kaelan Thorne]]
 3. Bless - a copper coin
+	1. Given to [[Grael]]
 
 # Magic Items
 
 - Locket of Whispers
+	- Warm Embrace on Kaelan
 
 # Inventory
 
 - 1x Greater Healing Potion (4d4+4)
+- 150gp gold
+- https://www.onlyfeys.com/Adventures/Rails+of+Deception/Magic+Items/Locket+of+Whispers
+- adorable Y-pop bag overflowing with nonsense, purchased from Y-pop store before leaving
+	- Yatsen - the "Asian" region
+- piece of paper with cipher on it from Veelia's demi-plane
+- train ticket for 2nd class
+	- Hannah Montana
